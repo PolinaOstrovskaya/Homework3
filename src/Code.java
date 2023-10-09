@@ -12,6 +12,10 @@ public class Code {
             System.out.println("BYE");
         }
         int a=n-1;
+        if(a>2)
+        {
+            System.out.println("Good");
+        }
     }
 }
 
