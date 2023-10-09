@@ -16,6 +16,10 @@ public class Code {
         {
             System.out.println("Good");
         }
+        else
+        {
+            System.out.println("Bad");
+        }
     }
 }
 
