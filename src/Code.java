@@ -7,6 +7,9 @@ public class Code {
         if(n<=10)
         {
             System.out.println("HI");
+        }else
+        {
+            System.out.println("BYE");
         }
     }
 }
