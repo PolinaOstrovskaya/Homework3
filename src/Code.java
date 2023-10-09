@@ -11,6 +11,7 @@ public class Code {
         {
             System.out.println("BYE");
         }
+        int a=n-1;
     }
 }
 
